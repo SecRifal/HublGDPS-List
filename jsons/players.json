@@ -1,7 +1,7 @@
 [
   {
     "name":"Zefirfy",
-    "icon":"icons/Zefirfy.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/Zefirfy.png",
     "points":null,
     "levels": [
       [1207, true],
@@ -23,7 +23,7 @@
 
   {
     "name":"Ruslanych",
-    "icon":"icons/Ruslanych.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/Ruslanych.png",
     "points":null,
     "levels": [
       [1064, false],
@@ -37,7 +37,7 @@
 
   {
     "name":"Artembird",
-    "icon":"icons/Artembird.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/Artembird.png",
     "points":null,
     "levels": [
       [542, true],
@@ -53,7 +53,7 @@
 
   {
     "name":"KopelaSoula",
-    "icon":"icons/KopelaSoula.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/KopelaSoula.png",
     "points":null,
     "levels": [
       [1160, true],
@@ -75,7 +75,7 @@
 
   {
     "name":"LomamovRu",
-    "icon":"icons/LomamovRu.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/LomamovRu.png",
     "points":null,
     "levels": [
       [170, true]
@@ -94,7 +94,7 @@
 
   {
     "name":"mintyzz",
-    "icon":"icons/mintyzz.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/mintyzz.png",
     "points":null,
     "levels": [
       [1022, true]
@@ -103,7 +103,7 @@
   
   {
     "name":"SUNDER",
-    "icon":"icons/SUNDER.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/SUNDER.png",
     "points":null,
     "levels": [
       [1146, true]
@@ -112,7 +112,7 @@
 
   {
     "name":"Better",
-    "icon":"icons/Better.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/Better.png",
     "points":null,
     "levels": [
       [1256, true],
@@ -127,7 +127,7 @@
   
   {
     "name":"qwexzl123",
-    "icon":"icons/qwexzl123.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/qwexzl123.png",
     "points":null,
     "levels": [
       [359, false],
@@ -150,7 +150,7 @@
 
   {
     "name":"dizya1",
-    "icon":"icons/dizya1.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/dizya1.png",
     "points":null,
     "levels": [
       [1323, true],
@@ -169,7 +169,7 @@
 
   {
     "name":"osiris",
-    "icon":"icons/osiris.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/osiris.png",
     "points":null,
     "levels": [
       [1284, false],
@@ -202,7 +202,7 @@
 
   {
     "name":"devilixer",
-    "icon":"icons/devilixer.png",
+    "icon":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/icons/devilixer.png",
     "points":null,
     "levels": [
       [1353, true]
