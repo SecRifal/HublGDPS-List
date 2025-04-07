@@ -1,8 +1,8 @@
 var links = {
-    "demonlist":"https://github.com/SecRifal/HublGDPS-List/blob/main/jsons/demonlist.json",
-    "challengelist":"https://github.com/SecRifal/HublGDPS-List/blob/main/jsons/challengelist.json",
-    "news":"https://github.com/SecRifal/HublGDPS-List/blob/main/jsons/news.json",
-    "players":"https://github.com/SecRifal/HublGDPS-List/blob/main/jsons/players.json"
+    "demonlist":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/jsons/demonlist.json",
+    "challengelist":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/jsons/challengelist.json",
+    "news":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/jsons/news.json",
+    "players":"https://raw.githubusercontent.com/SecRifal/HublGDPS-List/refs/heads/main/jsons/players.json"
 }
 /*
 var links = {
