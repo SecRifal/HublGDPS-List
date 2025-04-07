@@ -4,7 +4,7 @@ function addPlayer_interface(name, points, position, icon) {
 
     if (icon == false) {
         var result = `<div class="player" onclick="viewPlayerInfo('${name}', '${position}')">
-                    <img src="https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/icons/--default--.png" alt="">
+                    <img src="" alt="">
                     <div class="player-text-wrapper">
                         <h1>#${position} - ${name}</h1>
                         <h3>${Math.round(points)} <span>points</span></h3>
@@ -12,7 +12,7 @@ function addPlayer_interface(name, points, position, icon) {
                 </div>`
     } else {
         var result = `<div class="player" onclick="viewPlayerInfo('${name}', '${position}')">
-                    <img src="https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/icons/${icon}" alt="">
+                    <img src="${icon}" alt="">
                     <div class="player-text-wrapper">
                         <h1>#${position} - ${name}</h1>
                         <h3>${Math.round(points)} <span>points</span></h3>
